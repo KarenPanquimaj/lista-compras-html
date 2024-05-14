@@ -1,0 +1,26 @@
+h1{
+    color: darkolivegreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: aqua;
+}
+
+body{
+    background-image: url(./imagen.avif);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+
+table{
+    font-size: 40px;
+}
+
+tr{
+    color: darkblue;
+}
+
+
+#carrito{
+    text-align: center;
+}
